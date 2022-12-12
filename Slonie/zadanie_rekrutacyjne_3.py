@@ -4,6 +4,7 @@ m = input()
 a = input()
 b = input()
 
+
 #Obróbka pliku
 n = int(n)
 m = list(int(x) for x in m.split()) 
