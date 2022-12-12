@@ -1,8 +1,0 @@
-n = input()
-m = input()
-a = input()
-b = input()
-print(n)
-print(m)
-print(a)
-print(b)
